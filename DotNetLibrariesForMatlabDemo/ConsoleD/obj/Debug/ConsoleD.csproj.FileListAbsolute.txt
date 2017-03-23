@@ -1,1 +1,2 @@
 C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\ConsoleD\bin\Debug\ConsoleD.exe.config
+C:\Users\Adrian.vanBerkhout\Source\Repos\MatlabCompiledUnitTest\DotNetLibrariesForMatlabDemo\ConsoleD\bin\Debug\ConsoleD.exe.config
