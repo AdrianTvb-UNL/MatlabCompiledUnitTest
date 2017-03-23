@@ -1,0 +1,6 @@
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\bin\Debug\LibraryB.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\bin\Debug\LibraryB.pdb
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\bin\Debug\FunctionANative.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\obj\Debug\LibraryB.csprojResolveAssemblyReference.cache
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\obj\Debug\LibraryB.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\LibraryB\obj\Debug\LibraryB.pdb

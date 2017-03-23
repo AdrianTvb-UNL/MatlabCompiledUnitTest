@@ -1,0 +1,9 @@
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\TestProjectC.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\TestProjectC.pdb
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\LibraryB.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\FunctionANative.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\bin\Debug\LibraryB.pdb
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\obj\Debug\TestProjectC.csprojResolveAssemblyReference.cache
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\obj\Debug\TestProjectC.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\DotNetLibrariesForMatlabDemo\TestProjectC\obj\Debug\TestProjectC.pdb

@@ -1,0 +1,5 @@
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\TestDb_ConfigDb\TestDb_ConfigDb\bin\Debug\TestDb_ConfigDb.dacpac
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\TestDb_ConfigDb\TestDb_ConfigDb\bin\Debug\TestDb_ConfigDb.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\TestDb_ConfigDb\TestDb_ConfigDb\bin\Debug\TestDb_ConfigDb.pdb
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\TestDb_ConfigDb\TestDb_ConfigDb\obj\Debug\TestDb_ConfigDb.dll
+C:\Users\Adrian.vanBerkhout\Documents\MATLAB\dotnettestappdemo\TestDb_ConfigDb\TestDb_ConfigDb\obj\Debug\TestDb_ConfigDb.pdb
